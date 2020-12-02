@@ -7,14 +7,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Ajax Insert || Update || Delete</title>
+	<title>Student Dashboard</title>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
 	body{
 		
 		
-		background-color: #85FFBD;
-background-image: linear-gradient(90deg, #85FFBD 0%, #FFFB7D 100%);
+		background-color: #86FBFD;
+background-image: linear-gradient(90deg, #86FBFD 0%, #FFBF8D 100%);
 
 
 
@@ -22,23 +22,23 @@ background-image: linear-gradient(90deg, #85FFBD 0%, #FFFB7D 100%);
 	}
 		.box-title{
 			border-radius: 5px;
-			background-color: #85FFBD;
-background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+			background-color: #86FBFD;
+background-image: linear-gradient(45deg, #86FBFD 0%, #FFBF8D 100%);
 
 			box-shadow: 0px 0px 3px 1px gray;
 			padding: 10px 0px;
 		}
 		.error-msg{
 			color: #dc3545;
-			background-color: #85FFBD;
-background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+			background-color: #86FBFD;
+background-image: linear-gradient(45deg, #86FBFD 0%, #FFBF8D 100%);
 
 			font-weight: 600;
 		}
 		.success-msg{
 			color: green;
-			background-color: #85FFBD;
-background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+			background-color: #86FBFD;
+background-image: linear-gradient(45deg, #86FBFD 0%, #FFBF8D 100%);
 
 			font-weight: 600;
 		}
@@ -51,7 +51,7 @@ background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
 		<div class="container">
 			<div class="row m-3 text-center">
 				<div class="col-lg-12">
-					<h1 class="box-title">Ajax Insert || Update || Delete</h1>
+					<h1 class="box-title">Student Dashboard</h1>
 				</div>
 			</div>
 			<div  class="row justify-content-center">

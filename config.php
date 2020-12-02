@@ -2,7 +2,7 @@
 
 class Userfunction{
 
-	private $DBHOST='localhost:3206';
+	private $DBHOST='localhost';
 	private $DBUSER='root';
 	private $DBPASS='';
 	private $DBNAME='ajax';
